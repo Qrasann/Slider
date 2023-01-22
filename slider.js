@@ -25,7 +25,7 @@ const imageContent = [
 function setSlider() {
   let imageContainer = document.querySelector(".images");
   let arrowContainer = document.querySelector(".arrow_container");
-  let dotContainer = document.querySelector(".dots");
+  let dotContainer = document.querySelector(".dot_container");
   let aptNameContainer = document.querySelector(".list_container");
   let cityProject_info = document.querySelector(".city_project_info");
   let areaProject_info = document.querySelector(".area_project_info");
