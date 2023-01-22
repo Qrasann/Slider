@@ -172,7 +172,7 @@ body {
   rotate: -90deg;
 }
 
-.dot_container {
+.dots {
   display: flex;
 }
 
